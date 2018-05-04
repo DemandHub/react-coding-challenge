@@ -9,8 +9,7 @@ This is a coding challenge for prospective front-end and full-stack developer ap
 - [ ] Fork this repo into your GitHub account. Keep it public until we have been able to review it.
 - [ ] Use `create-react-app` to set up a basic single-page React application as shown here: https://reactjs.org/docs/add-react-to-a-new-app.html.
 - [ ] Refer to the Unsplash API docs here to set up a developer account: https://unsplash.com/documentation.
-- [ ] The React app can use the `GET /photos/curated` endpoint on Unsplash to pull a set of curated images from the API.
-- [ ] Display a grid of photos in your React app.
+- [ ] Display a grid of photos in your React app. Use the `GET /photos/curated` endpoint from Unsplash API to pull a set of curated images from the API.
 - [ ] The grid of photos should preserve the aspect ratio of the photos it's displaying, meaning it shouldn't crop the image in any way.
 - [ ] The grid should be responsive, and should work in both portrait and landscape orientations on both mobile and desktop browsers.
 - [ ] The grid should support pagination, i.e. you can scroll on grid of photos infinitely.
