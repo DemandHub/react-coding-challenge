@@ -12,13 +12,14 @@ This is a coding challenge for prospective front-end and full-stack developer ap
 - [ ] Display a grid of photos in your React app. Use the `GET /photos/curated` endpoint from the Unsplash API to get a set of curated images.
 - [ ] The grid of photos should preserve the aspect ratio of the photos it's displaying, meaning it shouldn't crop the image in any way.
 - [ ] The grid should be responsive, and should work in both portrait and landscape orientations on both mobile and desktop browsers.
-- [ ] The grid should support pagination, i.e. you can scroll on grid of photos infinitely.
+- [ ] The grid should support infinite scrolling, using a lazy-load strategy to fetch additional images as the user scrolls.
 - [ ] When the user taps on a photo on the grid it should show the full photo in a full width lightbox popup with more information about the photo.
 - [ ] The lightbox popup should be dismissible with a close button.
+- [ ] Add left/right arrows or swiping to the lightbox, to allow browsing the previous/next images without dismissing the popup.
 
 ### Evaluation:
 - [ ] The React app should build without errors (typically using `npm run build`). If there are necessary steps required to get it to compile, those should be covered in README.md.
 - [ ] No crashes or bugs.
 - [ ] App should operate as a single-page application, without the need for a custom back-end.
-- [ ] Code is easily understood and communicative.
+- [ ] Code is easily understood and communicative (eg. comments, variable names, etc).
 - [ ] GitHub commit history is consistent, easy to follow and understand.
