@@ -16,6 +16,7 @@ This is a coding challenge for prospective front-end and full-stack developer ap
 - [ ] When the user taps on a photo on the grid it should show the full photo in a full width lightbox popup with more information about the photo.
 - [ ] The lightbox popup should be dismissible with a close button.
 - [ ] Add left/right arrows or swiping to the lightbox, to allow browsing the previous/next images without dismissing the popup.
+- [ ] You're free to use existing open source React components or Javascript packages/libraries from npm to complete this task.
 
 ### Evaluation:
 - [ ] The React app should build without errors (typically using `npm run build`). If there are necessary steps required to get it to compile, those should be covered in README.md.
